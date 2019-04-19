@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="ProxyException_WaitDataTimeout"><value>It turned out the wait time data from the proxy server '{0}'.</value></data>
+  <data name="ArgumentOutOfRangeException_StringHelper_MoreLengthString"><value>The starting position can not be more than the length of the string.</value></data>
+  <data name="InvalidOperationException_HttpResponse_HasError"><value>Unable to perform the method, because an error occurred while receiving a response.</value></data>
+  <data name="ArgumentException_WrongPath"><value>The path is an empty string, contains only white space, or contains invalid characters.</value></data>
+  <data name="ArgumentOutOfRangeException_CanNotBeLess"><value>The value can not be less {0}.</value></data>
+  <data name="Socks_UnknownError"><value>Unknown error.</value></data>
+  <data name="Socks5_CommandReplyHostUnreachable"><value>Host unreachable.</value></data>
+  <data name="Socks5_CommandReplyCommandNotSupported"><value>The command is not supported or protocol error.</value></data>
+  <data name="ArgumentException_EmptyString"><value>Value has not been empty string</value></data>
+  <data name="HttpException_WaitDataTimeout"><value>It turned out the wait time data from the HTTP-server '{0}'.</value></data>
+  <data name="HttpException_WrongChunkedBlockLength"><value>Received invalid data block size when using Chunked: {0}</value></data>
+  <data name="Socks5_CommandReplyAddressTypeNotSupported"><value>Address type not supported.</value></data>
+  <data name="InvalidOperationException_ProxyClient_WrongPassword"><value>The password can not be more than 255 characters.</value></data>
+  <data name="ProxyException_NotSupportedAddressType"><value>The host '{0}' type '{1}' does not support the type Address. The following types: InterNetwork and InterNetworkV6. The proxy server '{2}'.</value></data>
+  <data name="ArgumentOutOfRangeException_CanNotBeGreater"><value>The value can not be more than {0}.</value></data>
+  <data name="HttpException_WrongCookie"><value>Received invalid cookies '{0}' from the HTTP-server '{1}'.</value></data>
+  <data name="HttpException_ReceivedEmptyResponse"><value>Received empty response from the HTTP-server '{0}'.</value></data>
+  <data name="HttpException_WrongHeader"><value>Received invalid header "{0} 'from the HTTP-server' {1} '.</value></data>
+  <data name="ArgumentException_MultiThreading_BegIndexRangeMoreEndIndex"><value>Begin Index range more end index</value></data>
+  <data name="Socks5_CommandReplyConnectionNotAllowedByRuleset"><value>Connecting a set of rules is prohibited.</value></data>
+  <data name="FormatException_ProxyClient_WrongPort"><value>Invalid port specified.</value></data>
+  <data name="ArgumentOutOfRangeException_StringLengthCanNotBeMore"><value>String length must not be more than {0} characters.</value></data>
+  <data name="Socks5_CommandReplyGeneralSocksServerFailure"><value>Error SOCKS-server.</value></data>
+  <data name="ProxyException_CommandError"><value>{0} The proxy server '{1}'.</value></data>
+  <data name="Socks4_CommandReplyRequestRejectedDifferentIdentd"><value>The request failed because client's identd could not confirm the user ID in the query.</value></data>
+  <data name="ProxyException_ConnectTimeout"><value>It turned out the wait time to connect to the proxy server '{0}'.</value></data>
+  <data name="DirectoryNotFoundException_DirectoryNotFound"><value>he path points to a nonexistent directory {0}.</value></data>
+  <data name="ProxyException_Error"><value>An error occurred while working with the proxy server '{0}'.</value></data>
+  <data name="ArgumentException_HttpRequest_SetNotAvailableHeader"><value>Value of '{0}' set not available header</value></data>
+  <data name="HttpException_Default"><value>An error when handling HTTP protocol.</value></data>
+  <data name="ProxyException_Default"><value>An error occurred while working with the proxy.</value></data>
+  <data name="HttpException_SeverError"><value>The error on the server side. Status code: {0}</value></data>
+  <data name="ProxyException_ReceivedWrongResponse"><value>Received an invalid response from the proxy server '{0}'.</value></data>
+  <data name="Socks5_CommandReplyConnectionRefused"><value>Connection refused.</value></data>
+  <data name="HttpException_LimitRedirections"><value>Have exceeded the maximum number of consecutive redirects.</value></data>
+  <data name="InvalidOperationException_ProxyClient_WrongHost"><value>The host may be uncertain or have zero length.</value></data>
+  <data name="InvalidOperationException_ProxyClient_WrongPort"><value>The port can not be less than 1 or greater than 65535.</value></data>
+  <data name="HttpException_FailedSendRequest"><value>Failed to send HTTP-request to the server '{0}'.</value></data>
+  <data name="Socks5_CommandReplyTTLExpired"><value>Expired TTL.</value></data>
+  <data name="ProxyException_FailedGetHostAddresses"><value>Failed to get the host IP-address '{0}'.</value></data>
+  <data name="HttpException_ClientError"><value>The error on the client side. Status code: {0}</value></data>
+  <data name="ProxyException_FailedConnect"><value>Unable to connect to the proxy server '{0}'.</value></data>
+  <data name="ArgumentOutOfRangeException_CanNotBeLessOrGreater"><value>The value can not be less than {0} or {1} longer.</value></data>
+  <data name="HttpException_FailedReceiveResponse"><value>Failed to recieve the response from the HTTP-server '{0}'.</value></data>
+  <data name="NetException_Default"><value>An error occurred while working with the network.</value></data>
+  <data name="HttpException_FailedReceiveMessageBody"><value>Could not recieve the message body of the response HTTP-server '{0}'.</value></data>
+  <data name="HttpException_FailedConnect"><value>Unable to connect to the HTTP-server '{0}'.</value></data>
+  <data name="Socks4_CommandReplyRequestRejectedCannotConnectToIdentd"><value>The request failed, because things are not running identd (or not available from the server).</value></data>
+  <data name="InvalidOperationException_ChainProxyClient_NotProxies"><value>Do not set any proxy for the chain.</value></data>
+  <data name="ArgumentException_CanNotReadOrSeek"><value>Thread can not read or seek</value></data>
+  <data name="Socks4_CommandReplyRequestRejectedOrFailed"><value>Query rejected or erroneous.</value></data>
+  <data name="ProxyException_ReceivedEmptyResponse"><value>Received empty response from the proxy server '{0}'.</value></data>
+  <data name="HttpException_FailedSslConnect"><value>Unable to establish SSL-connection with HTTP-server '{0}'.</value></data>
+  <data name="ProxyException_ReceivedWrongStatusCode"><value>Received invalid status code '{0}' on '{1}' proxy.</value></data>
+  <data name="ArgumentException_OnlyAbsoluteUri"><value>Acceptable use only the absolute URI.</value></data>
+  <data name="ProxyException_Socks5_FailedAuthOn"><value>Failed to authenticate with the proxy server '{0}'.</value></data>
+  <data name="Socks5_CommandReplyNetworkUnreachable"><value>The network is not available.</value></data>
+  <data name="InvalidOperationException_NotSupportedEncodingFormat"><value>Received an unsupported encoding format: {0}</value></data>
+  <data name="Socks5_AuthMethodReplyNoAcceptableMethods"><value>The proposed authentication methods are supported.</value></data>
+  <data name="InvalidOperationException_ProxyClient_WrongUsername"><value>User name can not be more than 255 characters.</value></data>
+  <data name="HttpException_FailedGetHostAddresses"><value>Failed to get the host IP-address '{0}'.</value></data>
+  <data name="HttpException_ReceivedWrongResponse"><value>Received an invalid response from the HTTP-server '{0}'.</value></data>
+  <data name="HttpException_ConnectTimeout"><value>It turned out wait for a connection to the HTTP-server '{0}'.</value></data>
+  </root>

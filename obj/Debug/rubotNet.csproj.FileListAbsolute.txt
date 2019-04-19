@@ -1,0 +1,34 @@
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\bin\Debug\rubotNet.dll
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\bin\Debug\rubotNet.pdb
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\bin\Debug\System.dll
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\bin\Debug\System.Drawing.dll
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\bin\Debug\System.Windows.Forms.dll
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\bin\Debug\WebDriver.dll
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.csprojAssemblyReference.cache
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.Properties.Resources.resources
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.Extreme.Resources.resources
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.MainFrame.resources
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.csproj.GenerateResource.cache
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.csproj.CoreCompileInputs.cache
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.csproj.CopyComplete
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.dll
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.pdb
+C:\Users\IziC#\Documents\Новая папка\ОЛт руб\рубот\obj\Debug\rubotNet.Login.resources
+C:\rubotfinal\bin\Debug\Microsoft.VisualBasic.dll
+C:\rubotfinal\bin\Debug\System.dll
+C:\rubotfinal\bin\Debug\System.Drawing.dll
+C:\rubotfinal\bin\Debug\System.Windows.Forms.dll
+C:\rubotfinal\bin\Debug\WebDriver.dll
+C:\rubotfinal\obj\Debug\rubotNet.Properties.Resources.resources
+C:\rubotfinal\obj\Debug\rubotNet.Extreme.Resources.resources
+C:\rubotfinal\obj\Debug\rubotNet.Login.resources
+C:\rubotfinal\obj\Debug\rubotNet.MainFrame.resources
+C:\rubotfinal\obj\Debug\rubotNet.csproj.GenerateResource.cache
+C:\rubotfinal\obj\Debug\rubotNet.csproj.CoreCompileInputs.cache
+C:\rubotfinal\obj\Debug\rubotNet.csproj.CopyComplete
+C:\rubotfinal\bin\Debug\rubotNet.dll
+C:\rubotfinal\bin\Debug\rubotNet.pdb
+C:\rubotfinal\obj\Debug\rubotNet.dll
+C:\rubotfinal\obj\Debug\rubotNet.pdb
+C:\rubotfinal\obj\Debug\rubotNet.csprojAssemblyReference.cache
